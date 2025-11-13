@@ -1,0 +1,27 @@
+2025-11-13 05:35:33 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 05:35:33 [INFO] Group exists: sudo
+2025-11-13 05:35:33 [INFO] Created group: dev
+2025-11-13 05:35:33 [INFO] Group exists: www-data
+2025-11-13 05:35:33 [INFO] Created user: light (groups: sudo,dev,www-data)
+2025-11-13 05:35:33 [INFO] Password set and stored for user: light
+2025-11-13 05:35:33 [INFO] Group exists: sudo
+2025-11-13 05:35:33 [INFO] Created user: siyoni (groups: sudo)
+2025-11-13 05:35:33 [INFO] Password set and stored for user: siyoni
+2025-11-13 05:35:33 [INFO] Group exists: dev
+2025-11-13 05:35:33 [INFO] Group exists: www-data
+2025-11-13 05:35:34 [INFO] Created user: manoj (groups: dev,www-data)
+2025-11-13 05:35:34 [INFO] Password set and stored for user: manoj
+2025-11-13 05:35:34 [INFO] Processing complete for file: users.txt
+2025-11-13 07:26:05 - ===== Starting User Creation Process =====
+2025-11-13 07:26:05 - ===== User Creation Completed =====
+2025-11-13 08:46:35 - ===== Starting User Creation Process =====
+2025-11-13 08:46:35 - ===== User Creation Completed =====
+light:5ZnYqOjuE8vebDPVvj1tCRbU
+siyoni:2Ri9mRgxoVv0tvRpzkgT7sTb
+manoj:05ICbV1xNuHjIC8iqJr2GH3t
+light:LbPELEm6EmbQxgLfmnnnLoWM
+siyoni:B3u4very5Bf7gggU8vtCifUE
+manoj:fMVwDmK79mIkyWUKAKM7EZ9S
+light:Q4iReVRMB02YQX8G6lMRTdzt
+siyoni:7MgbY9GMP9BvsCcXj3MjioBQ
+manoj:LtwdOA1Pts09ABJO9k2R9YZO
